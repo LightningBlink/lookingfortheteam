@@ -1,5 +1,5 @@
-A simple example project that sets up an embedded Jetty 8 with Spring-MVC, JSP and JSTL support.
+This is a web application designed to help players find suitable teammates for online games such as Dota, StarCraft, Lineage 2, and others. The main idea is to match players based on their MMR, stats, and other criteria, allowing them to find suitable teammates and join clans.
 
-This example uses no XML configuration.
+The application supports private messaging, team chat, news creation, and other social features.
 
-Further description [here](http://steveliles.github.io/setting_up_embedded_jetty_8_and_spring_mvc_with_maven.html).
+The project was built entirely from scratch in 2014 using Spring Boot and AngularJS, from the initial concept to a fully functional application.
