@@ -1,0 +1,12 @@
+<html>
+<body>
+<h3>Hi ${user.username}, welcome to the LFT (Looking for team) community !</h3>
+
+<div>
+    <p>Your username is ${user.username}.</p>
+    <p>For completion of registration  please visit this link <a href="${domain}/confirmation/${hash}">${domain}/confirmation/${hash}</a> ,</p>
+    <p>the link is enabled one day!</p>
+    <p>p.s. best regards  <a href="${domain}">${domain}</a></p>
+</div>
+</body>
+</html>

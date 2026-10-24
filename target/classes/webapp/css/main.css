@@ -1,0 +1,169 @@
+
+body {
+	background: #273052;
+
+}
+
+.body {
+	background: #273052 url(../images/background/background.png) no-repeat;
+	-moz-background-size: 100%; /* Firefox 3.6+ */
+	-webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+	-o-background-size: 100%; /* Opera 9.6+ */
+	background-size: 100%; /
+}
+
+.hundred {
+	width: 100%;
+}
+
+
+.text-center {
+	text-align:center;
+}
+
+.margin5{
+	margin: 5px;
+}
+
+.margin10{
+	margin: 10px;
+}
+
+.read{
+	background: #F0F0F0 ;
+}
+.enter{
+	border: 3px solid #c9cccf;
+	border-radius: 5px;
+}
+
+.enter{
+	border: 2px solid #c9cccf;
+
+}
+
+.center-div {
+	margin: auto;
+}
+.date-color {
+	color: #3F7F7F;
+}
+
+body {
+	font-size: 15px;
+}
+
+.error-input {
+	color: #a94442;
+	background-color: #f2dede;
+	padding: 10px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	margin-top: 10px;
+
+}
+
+
+.max-100 {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.avatar{
+	width: 1px;
+	height: 140px;
+	}
+
+.margin-top20{
+	margin-top: 20px;
+}
+
+.paragraph-text {
+
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 20px;
+	line-height: 35px;
+	letter-spacing: 1px;color: #444;
+}
+
+.games-header-th {
+	text-align: center;
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 25px;
+	line-height: 35px;
+	letter-spacing: 1px;color: #444;
+}
+
+
+.games-header {
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 20px;
+	line-height: 30px;
+	letter-spacing: 1px;color: #444;
+}
+
+.country-flag {
+	width: 20px;
+	margin-left: 12px;
+	margin-right: 7px;
+}
+
+.beta-icon {
+	width: 50px;
+	margin-top: 10px;
+
+}
+
+.block-right {
+	float:right;
+}
+
+.header-game {
+	padding-bottom: 10px; padding-top: 10px; font-size: 20px;
+}
+
+#chatroom {
+	font-size: 16px;
+	height: 40px;
+	line-height: 40px;
+	width: 300px;
+}
+
+.received {
+	font-size: 12px;
+}
+
+@font-face {
+	font-family: teamNameHeader;
+	src: url(../fonts/Capture_it.ttf);
+}
+
+.font-title{
+	font-family: teamNameHeader, serif;
+	font-size: 50px;
+}
+
+@font-face {
+	font-family: siteName;
+	src: url(../fonts/Tibet.ttf);
+}
+
+.font-team-namesss{
+	font-family: siteName, serif;
+	font-size: 25px;
+}
+
+@font-face {
+	font-family: helpText;
+	src: url(../fonts/Barkentina%201.otf);
+}
+
+.font-help-text{
+	font-family: helpText, serif;
+	font-size: 25px;
+}
+
+.font-help-text-game{
+	font-family: helpText, serif;
+	font-size: 15px;
+}

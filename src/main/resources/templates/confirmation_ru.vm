@@ -1,0 +1,12 @@
+<html>
+<body>
+<h3>Привет ${user.username}, приветствуем тебя на  LFT (Looking for team) сообществе !</h3>
+
+<div>
+    <p>Твой никнейм ${user.username}.</p>
+    <p>Чтобы завершить регистрацию перейдите по ссылке <a href="${domain}/confirmation/${hash}">${domain}/confirmation/${hash}</a> ,</p>
+    <p>ссылка доступна один день!</p>
+    <p>пы.сы. с лучшими пожеланиями  <a href="${domain}">${domain}</a></p>
+</div>
+</body>
+</html>

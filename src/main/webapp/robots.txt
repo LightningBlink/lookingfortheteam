@@ -1,0 +1,18 @@
+User-agent: Yandex
+Disallow: /admin
+Disallow: /admin/**
+Host: lookingforteam.net
+
+
+User-agent: Googlebot
+Disallow: /admin
+Disallow: /admin/**
+
+
+User-agent:  *
+Crawl-delay: 30
+Disallow: /admin
+Disallow: /admin/**
+
+
+Sitemap: http://lookingforteam.net/sitemap.xml

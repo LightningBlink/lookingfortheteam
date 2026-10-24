@@ -1,0 +1,2138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3399718e-3aaa-43f2-90ce-1fdf9f55fcdb" name="Default" comment="fix bugs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/den/constraint/LengthWithEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/den/constraint/LengthWithEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/den/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/den/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/news/add_new.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/news/add_new.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/Filemanager-master/userfiles/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/Filemanager-master/userfiles/1111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/Filemanager-master/userfiles/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/Filemanager-master/userfiles/ddd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/Filemanager-master/userfiles/dsadsa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/Filemanager-master/userfiles/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/den/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/den/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/news/add_new.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/news/add_new.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/posts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/posts.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/template1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/template1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/template2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/template2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/template3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/template3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/template4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/template4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/template5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/posts/template5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/js/Filemanager-master/userfiles/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/js/Filemanager-master/userfiles/1111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/js/Filemanager-master/userfiles/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/js/Filemanager-master/userfiles/ddd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/js/Filemanager-master/userfiles/dsadsa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/js/Filemanager-master/userfiles/web.config" beforeDir="false" />
+    </list>
+    <list id="b8bb0c85-e5fd-4918-ae6a-746c19b2af08" name="Failed commit: no commit" comment="no commit" />
+    <list id="6a90fda0-76e1-4db5-b240-2abab78d1788" name="New changelist" comment="no commit&#10;" />
+    <list id="4f2e8f66-7ab8-4ceb-8d2a-b3a68e88ab34" name="no commit" comment="no commit" />
+    <ignored path="jetty-noxml.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel url="file://$PROJECT_DIR$" />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_TOOLBAR" value="true" />
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-919663757">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="73" />
+          <entry key="jpg" value="2" />
+          <entry key="js" value="7" />
+          <entry key="jsp" value="15" />
+          <entry key="png" value="2" />
+          <entry key="properties" value="3" />
+          <entry key="vm" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="Image" value="4" />
+          <entry key="JAVA" value="73" />
+          <entry key="JSP" value="15" />
+          <entry key="JavaScript" value="7" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jetty-noxml" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/profile/main.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/profile/not_found.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/teams/createteam.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/teams/games_found.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16592">
+              <caret line="976" column="34" selection-start-line="976" selection-start-column="29" selection-end-line="976" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/directives.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/filters.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/module.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/route.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/service.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Lighting" />
+        <option value="Denis &lt;onesLightning@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/den/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/controller/MessageController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/teams/games_found.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/teams/games_not_found.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/about.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/docs/components/bootstrap-3.1.1/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/sitemap.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/news/news.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/news/new.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/robots.txt.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/config/WebModule.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/sitemap.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/robots.txt" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/teams/teammates.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/controller/ChatController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/repository/UserPersistence.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/form-helpres/dist/js/bootstrap-formhelpers.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/teams/createteam.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/profile/found.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/messages_ru.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/service.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/messages/main.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/model/ext/User.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/teams/team_exist.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/posts.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/filters.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template2.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template1.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/animation.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/module.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/messages_en.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/controller/Home.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/route.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/posts.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template2.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template3.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template4.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template5.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/controller.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/Filemanager-master/utils/minify.py" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/constraint/LengthWithEmpty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/news/add_new.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/Filemanager-master/scripts/filemanager.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/service/impl/StoreServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/den/util/ReflectionUtils.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="star-gate" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="star-gate" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1288" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>LoopStatementsThatDontLoop</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="constraint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="constraint" type="462c0819:PsiDirectoryNode" />
+              <item name="validatedBy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="converter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="encoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="enumes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="id" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="nartex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="den" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jetty-noxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lft" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="teams" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJSP" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\lft\lft" />
+      <recent name="C:\projects\lft\lft\src\main\webapp\images\icon" />
+      <recent name="C:\projects\lft\lft\src\main\webapp\js\form-helpres\dist\js" />
+      <recent name="C:\projects\lft\lft\src\main\webapp\js" />
+      <recent name="C:\projects\lft\lft\src\main\webapp\images\navbar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\sg\src\main\webapp\WEB-INF\gopa" />
+      <recent name="C:\projects\sg\src\main\webapp\Filemanager-master" />
+      <recent name="C:\projects\sg\src\main\webapp\velocity" />
+      <recent name="C:\projects\sg\src\main\webapp" />
+      <recent name="C:\Users\Denis\IdeaProjects\sg\src\main\java\META-INF\webapp\WEB-INF\view\js" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.den" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.den.wrapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.den.Main" />
+      <module name="sg" />
+      <option name="PROGRAM_PARAMETERS" value="8080" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.sjl.Main" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" name="teams.jsp" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jetty-noxml/sg/WEB-INF/teams/teams.jsp">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="sg" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="sg" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+    </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",GROUP_BY_PREFIXES,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3399718e-3aaa-43f2-90ce-1fdf9f55fcdb" name="Default" comment="" />
+      <changelist id="4f2e8f66-7ab8-4ceb-8d2a-b3a68e88ab34" name="no commit" comment="" />
+      <changelist id="6a90fda0-76e1-4db5-b240-2abab78d1788" name="New changelist" comment="no commit&#10;" />
+      <created>1410940061058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1410940061058</updated>
+      <workItem from="1410940063736" duration="321000" />
+      <workItem from="1410940414307" duration="16000" />
+      <workItem from="1410940507364" duration="209000" />
+      <workItem from="1410940795943" duration="26000" />
+      <workItem from="1410941111325" duration="9000" />
+      <workItem from="1410941684762" duration="343000" />
+      <workItem from="1410942296546" duration="186000" />
+      <workItem from="1410943005360" duration="9000" />
+      <workItem from="1410944146258" duration="2016000" />
+      <workItem from="1410946316373" duration="3450000" />
+      <workItem from="1411463433379" duration="5173000" />
+      <workItem from="1412010290056" duration="4897000" />
+      <workItem from="1412068873445" duration="3218000" />
+      <workItem from="1412072660726" duration="7866000" />
+      <workItem from="1412080675657" duration="34000" />
+      <workItem from="1412153223096" duration="4954000" />
+      <workItem from="1413190013340" duration="25000" />
+      <workItem from="1413190146087" duration="19167000" />
+      <workItem from="1418232690823" duration="7214000" />
+      <workItem from="1418240376187" duration="1969000" />
+      <workItem from="1418914716037" duration="785000" />
+      <workItem from="1418915678866" duration="113000" />
+      <workItem from="1418925087254" duration="22395000" />
+      <workItem from="1418981025846" duration="10538000" />
+      <workItem from="1419167129948" duration="18137000" />
+      <workItem from="1419185904079" duration="15425000" />
+      <workItem from="1419237828263" duration="7471000" />
+      <workItem from="1421412488391" duration="1738000" />
+      <workItem from="1421414306039" duration="11041000" />
+      <workItem from="1421435631639" duration="2265000" />
+      <workItem from="1421438246360" duration="2117000" />
+      <workItem from="1422448487344" duration="10976000" />
+      <workItem from="1422550364915" duration="5344000" />
+      <workItem from="1422557623053" duration="7671000" />
+      <workItem from="1422623708591" duration="818000" />
+      <workItem from="1422624694715" duration="2329000" />
+      <workItem from="1422627096273" duration="6895000" />
+      <workItem from="1423492809968" duration="5971000" />
+      <workItem from="1423569780171" duration="10368000" />
+      <workItem from="1423583953865" duration="2518000" />
+      <workItem from="1423660553625" duration="4654000" />
+      <workItem from="1423665557005" duration="4997000" />
+      <workItem from="1423744916710" duration="3701000" />
+      <workItem from="1423749710041" duration="15027000" />
+      <workItem from="1423834950544" duration="8454000" />
+      <workItem from="1425050775882" duration="3050000" />
+      <workItem from="1425062036496" duration="2200000" />
+      <workItem from="1425064834917" duration="3685000" />
+      <workItem from="1425209326356" duration="7179000" />
+      <workItem from="1426176442091" duration="2173000" />
+      <workItem from="1426192334640" duration="1736000" />
+      <workItem from="1426194204965" duration="3857000" />
+      <workItem from="1426257177669" duration="5376000" />
+      <workItem from="1426350269305" duration="4630000" />
+      <workItem from="1426358513923" duration="4101000" />
+      <workItem from="1426870576225" duration="3984000" />
+      <workItem from="1426956319102" duration="2659000" />
+      <workItem from="1427128898856" duration="13620000" />
+      <workItem from="1427725683628" duration="10420000" />
+      <workItem from="1427902305211" duration="15461000" />
+      <workItem from="1428424959453" duration="10734000" />
+      <workItem from="1428597998000" duration="20873000" />
+      <workItem from="1429690792704" duration="14318000" />
+      <workItem from="1429791691964" duration="17308000" />
+      <workItem from="1430058449445" duration="11883000" />
+      <workItem from="1430740019995" duration="4069000" />
+      <workItem from="1430755731912" duration="17104000" />
+      <workItem from="1430838675351" duration="17754000" />
+      <workItem from="1430919586880" duration="14955000" />
+      <workItem from="1431598562494" duration="16325000" />
+      <workItem from="1431690427698" duration="11271000" />
+      <workItem from="1432113727616" duration="6248000" />
+      <workItem from="1432127002400" duration="1476000" />
+      <workItem from="1432297791974" duration="11289000" />
+      <workItem from="1432560795276" duration="5721000" />
+      <workItem from="1432810045065" duration="8938000" />
+      <workItem from="1432820932883" duration="11720000" />
+      <workItem from="1433148966225" duration="13688000" />
+      <workItem from="1433245152393" duration="12272000" />
+      <workItem from="1433506260276" duration="10033000" />
+      <workItem from="1433518853238" duration="2522000" />
+      <workItem from="1433588436168" duration="10693000" />
+      <workItem from="1433600695705" duration="3834000" />
+      <workItem from="1434026867007" duration="22755000" />
+      <workItem from="1434720782759" duration="11012000" />
+      <workItem from="1434742061716" duration="853000" />
+      <workItem from="1435136424740" duration="16901000" />
+      <workItem from="1435229470018" duration="12479000" />
+      <workItem from="1435743206691" duration="9417000" />
+      <workItem from="1435840918009" duration="105000" />
+      <workItem from="1435841658627" duration="605000" />
+      <workItem from="1435842949770" duration="17000" />
+      <workItem from="1435843845639" duration="79000" />
+      <workItem from="1435845344253" duration="130000" />
+      <workItem from="1436198970736" duration="17023000" />
+      <workItem from="1436534262950" duration="7366000" />
+      <workItem from="1436712614324" duration="9375000" />
+      <workItem from="1436875451042" duration="13168000" />
+      <workItem from="1437240983251" duration="143000" />
+      <workItem from="1437669879770" duration="4738000" />
+      <workItem from="1437730901982" duration="15431000" />
+      <workItem from="1437994298480" duration="14222000" />
+      <workItem from="1438084664255" duration="10579000" />
+      <workItem from="1438533560473" duration="2456000" />
+      <workItem from="1438619338895" duration="3758000" />
+      <workItem from="1439461672724" duration="10704000" />
+      <workItem from="1439555589235" duration="10950000" />
+      <workItem from="1439567824281" duration="1725000" />
+      <workItem from="1439905002733" duration="4875000" />
+      <workItem from="1440077066005" duration="4906000" />
+      <workItem from="1440162472127" duration="3395000" />
+      <workItem from="1440239935705" duration="11463000" />
+      <workItem from="1440878989543" duration="36000" />
+      <workItem from="1441356509463" duration="176000" />
+      <workItem from="1441366026619" duration="874000" />
+      <workItem from="1441528526099" duration="146000" />
+      <workItem from="1441551628655" duration="294000" />
+      <workItem from="1441552381087" duration="5080000" />
+      <workItem from="1441697759306" duration="168000" />
+      <workItem from="1442402154940" duration="6540000" />
+      <workItem from="1442490051941" duration="10908000" />
+      <workItem from="1442660096072" duration="7037000" />
+      <workItem from="1443006620843" duration="64000" />
+      <workItem from="1443210519170" duration="4402000" />
+      <workItem from="1443268919552" duration="7794000" />
+      <workItem from="1443363677365" duration="902000" />
+      <workItem from="1443368840319" duration="2218000" />
+      <workItem from="1443449244729" duration="45000" />
+      <workItem from="1443451097095" duration="106000" />
+      <workItem from="1443552842449" duration="2856000" />
+      <workItem from="1444051314230" duration="49000" />
+      <workItem from="1444060236658" duration="138000" />
+      <workItem from="1444222376613" duration="7180000" />
+      <workItem from="1444297209829" duration="4810000" />
+      <workItem from="1444319033050" duration="1118000" />
+      <workItem from="1444384932045" duration="9997000" />
+      <workItem from="1444554648565" duration="26423000" />
+      <workItem from="1444637430638" duration="1385000" />
+      <workItem from="1444640882175" duration="724000" />
+      <workItem from="1444641816656" duration="625000" />
+      <workItem from="1444642652436" duration="270000" />
+      <workItem from="1444922488892" duration="101000" />
+      <workItem from="1444983159952" duration="10620000" />
+      <workItem from="1445109174794" duration="717000" />
+      <workItem from="1445256777995" duration="8719000" />
+      <workItem from="1445608276386" duration="134000" />
+      <workItem from="1445610591296" duration="368000" />
+      <workItem from="1445616635346" duration="123000" />
+      <workItem from="1446217004366" duration="715000" />
+      <workItem from="1446217823908" duration="9835000" />
+      <workItem from="1446718793949" duration="20032000" />
+      <workItem from="1446846865975" duration="897000" />
+      <workItem from="1447071057586" duration="7611000" />
+      <workItem from="1447244311119" duration="2769000" />
+      <workItem from="1447247160718" duration="16670000" />
+      <workItem from="1447406847309" duration="151000" />
+      <workItem from="1447759443351" duration="13672000" />
+      <workItem from="1447858910172" duration="4615000" />
+      <workItem from="1447943868012" duration="14310000" />
+      <workItem from="1448110840042" duration="1209000" />
+      <workItem from="1448448644293" duration="13421000" />
+      <workItem from="1448562513479" duration="52000" />
+      <workItem from="1448802709489" duration="9406000" />
+      <workItem from="1448822444108" duration="126000" />
+      <workItem from="1448893239299" duration="13515000" />
+      <workItem from="1449054163543" duration="16761000" />
+      <workItem from="1449169771337" duration="6537000" />
+      <workItem from="1449668857661" duration="10979000" />
+      <workItem from="1449749207756" duration="2423000" />
+      <workItem from="1449752002593" duration="469000" />
+      <workItem from="1449761634038" duration="2007000" />
+      <workItem from="1449770514024" duration="6866000" />
+      <workItem from="1449828836349" duration="1037000" />
+      <workItem from="1450013057547" duration="9982000" />
+      <workItem from="1450178539891" duration="4968000" />
+      <workItem from="1450283303390" duration="6089000" />
+      <workItem from="1450429569372" duration="27552000" />
+      <workItem from="1450537776328" duration="9037000" />
+      <workItem from="1450692201481" duration="24321000" />
+      <workItem from="1450867092403" duration="3339000" />
+      <workItem from="1450957401372" duration="1008000" />
+      <workItem from="1451221286002" duration="8605000" />
+      <workItem from="1451397265434" duration="9501000" />
+      <workItem from="1451468426551" duration="10038000" />
+      <workItem from="1451835910202" duration="1844000" />
+      <workItem from="1451984114079" duration="14835000" />
+      <workItem from="1452070636239" duration="671000" />
+      <workItem from="1452513181896" duration="7649000" />
+      <workItem from="1452590616364" duration="2964000" />
+      <workItem from="1452683375068" duration="2290000" />
+      <workItem from="1452721251503" duration="1065000" />
+      <workItem from="1452798085402" duration="692000" />
+      <workItem from="1452807313695" duration="3071000" />
+      <workItem from="1452843074823" duration="1038000" />
+      <workItem from="1453199543272" duration="7875000" />
+      <workItem from="1453385539740" duration="2428000" />
+      <workItem from="1453543844597" duration="5931000" />
+      <workItem from="1454329240229" duration="19452000" />
+      <workItem from="1454410201286" duration="20206000" />
+      <workItem from="1454505169861" duration="6680000" />
+      <workItem from="1454584401197" duration="18475000" />
+      <workItem from="1454667677160" duration="1909000" />
+      <workItem from="1454928830027" duration="13763000" />
+      <workItem from="1455013758012" duration="4646000" />
+      <workItem from="1455090559740" duration="15284000" />
+      <workItem from="1455211021308" duration="140000" />
+      <workItem from="1455220533411" duration="240000" />
+      <workItem from="1455221913482" duration="3765000" />
+      <workItem from="1455264913081" duration="11490000" />
+      <workItem from="1455791511623" duration="9676000" />
+      <workItem from="1455803235157" duration="10984000" />
+      <workItem from="1455892934947" duration="1909000" />
+      <workItem from="1455980557133" duration="10384000" />
+      <workItem from="1456065330407" duration="8871000" />
+      <workItem from="1456148647163" duration="4849000" />
+      <workItem from="1456176294934" duration="57000" />
+      <workItem from="1456228876252" duration="10276000" />
+      <workItem from="1456244890486" duration="839000" />
+      <workItem from="1456259544717" duration="4643000" />
+      <workItem from="1456273376623" duration="664000" />
+      <workItem from="1456495582250" duration="1441000" />
+      <workItem from="1456501449751" duration="12520000" />
+      <workItem from="1456650365998" duration="9446000" />
+      <workItem from="1456742471230" duration="7836000" />
+      <workItem from="1456916147996" duration="4209000" />
+      <workItem from="1456930191696" duration="250000" />
+      <workItem from="1456930462486" duration="154000" />
+      <workItem from="1456943150159" duration="2326000" />
+      <workItem from="1456947005673" duration="585000" />
+      <workItem from="1457010175094" duration="1401000" />
+      <workItem from="1457086608360" duration="5332000" />
+      <workItem from="1457097533970" duration="2131000" />
+      <workItem from="1457205135579" duration="956000" />
+      <workItem from="1457255593672" duration="2129000" />
+      <workItem from="1458044440770" duration="10441000" />
+      <workItem from="1458065340111" duration="471000" />
+      <workItem from="1458204092753" duration="2941000" />
+      <workItem from="1458501574677" duration="3297000" />
+      <workItem from="1458514354217" duration="101000" />
+      <workItem from="1458517176187" duration="2353000" />
+      <workItem from="1458554142859" duration="5849000" />
+      <workItem from="1458560929928" duration="1316000" />
+      <workItem from="1458565963145" duration="4250000" />
+      <workItem from="1458641115864" duration="8191000" />
+      <workItem from="1458651614091" duration="7231000" />
+      <workItem from="1458682870515" duration="10214000" />
+      <workItem from="1459007471171" duration="87000" />
+      <workItem from="1461653589498" duration="861000" />
+      <workItem from="1461789172904" duration="63000" />
+      <workItem from="1467833974056" duration="1138000" />
+      <workItem from="1467921503565" duration="788000" />
+      <workItem from="1468047057891" duration="944000" />
+      <workItem from="1468069569924" duration="2378000" />
+      <workItem from="1468680971180" duration="6941000" />
+      <workItem from="1469283249630" duration="821000" />
+      <workItem from="1478204572625" duration="95000" />
+    </task>
+    <task id="LOCAL-00007" summary="date fix , and log ERROR enabled only">
+      <created>1455269336206</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1455269336206</updated>
+    </task>
+    <task id="LOCAL-00008" summary="config filemanager added">
+      <created>1455270517676</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1455270517676</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix">
+      <created>1455270959514</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1455270959514</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix">
+      <created>1455271311444</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1455271311444</updated>
+    </task>
+    <task id="LOCAL-00011" summary="mail fix bugs">
+      <created>1455276934897</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1455276934897</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix bugs">
+      <created>1456235031192</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1456235031192</updated>
+    </task>
+    <task id="LOCAL-00013" summary="google autentification">
+      <created>1456259871133</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1456259871133</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix bugs">
+      <created>1456273752404</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1456273752405</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix bugs">
+      <created>1456273867984</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1456273867984</updated>
+    </task>
+    <task id="LOCAL-00016" summary="TROLOLOLOLOL BAM PARAM PAM PAM">
+      <created>1456750673940</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1456750673940</updated>
+    </task>
+    <task id="LOCAL-00017" summary="games added&#10;">
+      <created>1456922431407</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1456922431407</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add">
+      <created>1456930368415</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1456930368415</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add">
+      <created>1456943850743</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1456943850743</updated>
+    </task>
+    <task id="LOCAL-00020" summary="seo optimization">
+      <created>1457093526209</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1457093526209</updated>
+    </task>
+    <task id="LOCAL-00021" summary="seo optimization">
+      <created>1457099051414</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1457099051414</updated>
+    </task>
+    <task id="LOCAL-00022" summary="seo optimization">
+      <created>1457206104998</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1457206104998</updated>
+    </task>
+    <task id="LOCAL-00023" summary="seo optimization">
+      <created>1457257757136</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1457257757136</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fix bugs">
+      <created>1458058706081</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1458058706081</updated>
+    </task>
+    <task id="LOCAL-00025" summary="seo optimization">
+      <created>1458065780576</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1458065780576</updated>
+    </task>
+    <task id="LOCAL-00026" summary="seo optimization">
+      <created>1458206693399</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1458206693399</updated>
+    </task>
+    <task id="LOCAL-00027" summary="stie speed load optimization&#10;">
+      <created>1458207527341</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1458207527341</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fix bugs">
+      <created>1458504599019</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1458504599019</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fix bugs">
+      <created>1458560004707</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1458560004707</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fix bugs">
+      <created>1458561158160</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1458561158160</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fix bugs">
+      <created>1458570483065</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1458570483065</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fix bugs">
+      <created>1458650856429</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1458650856429</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix bugs">
+      <created>1458651451357</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1458651451357</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fix bugs">
+      <created>1458651757365</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1458651757366</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix bugs">
+      <created>1458651921602</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1458651921602</updated>
+    </task>
+    <task id="LOCAL-00036" summary="img bred">
+      <created>1458655654747</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1458655654747</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix bugs">
+      <created>1458656178087</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1458656178087</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix bugs">
+      <created>1458658059474</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1458658059474</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix bugs">
+      <created>1458658758013</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1458658758013</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fix bugs">
+      <created>1458687270935</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1458687270935</updated>
+    </task>
+    <task id="LOCAL-00041" summary="fix bugs">
+      <created>1458687938656</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1458687938656</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fix bugs">
+      <created>1458688341127</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1458688341127</updated>
+    </task>
+    <task id="LOCAL-00043" summary="fix bugs">
+      <created>1458690381944</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1458690381944</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fix bugs">
+      <created>1458691103959</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1458691103959</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fix bugs">
+      <created>1458691335357</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1458691335357</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fix bugs">
+      <created>1458691470013</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1458691470014</updated>
+    </task>
+    <task id="LOCAL-00047" summary="fix bugs">
+      <created>1458691845915</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1458691845915</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fix bugs">
+      <created>1458692019450</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1458692019450</updated>
+    </task>
+    <task id="LOCAL-00049" summary="fix bugs">
+      <created>1458692161666</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1458692161666</updated>
+    </task>
+    <task id="LOCAL-00050" summary="fix bugs">
+      <created>1458692371786</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1458692371787</updated>
+    </task>
+    <task id="LOCAL-00051" summary="fix bugs">
+      <created>1458692600758</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1458692600759</updated>
+    </task>
+    <task id="LOCAL-00052" summary="fix bugs">
+      <created>1458693082170</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1458693082170</updated>
+    </task>
+    <task id="LOCAL-00053" summary="fix bugs">
+      <created>1458693259163</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1458693259163</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fix bugs">
+      <created>1468685424080</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1468685424080</updated>
+    </task>
+    <task id="LOCAL-00055" summary="fix bugs">
+      <created>1468688456100</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1468688456101</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1569353000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" x="93" y="149" width="349" height="544" id="Project" order="0" sideWeight="0.59284115" visible="true" weight="0.2585288" />
+      <window_info id="Structure" order="1" weight="0.24918832" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Palette&#9;" order="3" />
+      <window_info id="Web" order="4" sideWeight="0.40715882" side_tool="true" weight="0.29058442" />
+      <window_info id="Favorites" order="5" sideWeight="0.2596401" weight="0.25728154" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.22903226" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37318256" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.70307446" weight="0.57258064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.33441034" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3279483" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.29692557" side_tool="true" weight="0.26332796" />
+      <window_info anchor="bottom" id="Application Servers" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3279483" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.13762486" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3279483" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.3279483" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32956383" />
+      <window_info anchor="bottom" id="Changes" order="16" weight="0.28664497" />
+      <window_info anchor="right" id="CDI" order="0" weight="0.32922825" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Designer" order="3" />
+      <window_info anchor="right" id="JSF" order="4" weight="0.32922825" />
+      <window_info anchor="right" id="IDEtalk" order="5" weight="0.3276699" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32686085" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24939074" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32873377" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="12" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" x="93" y="149" width="349" height="544" id="Project" order="0" sideWeight="0.592068" visible="true" weight="0.27175698" />
+      <window_info id="Structure" order="1" weight="0.24918832" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Palette&#9;" order="3" />
+      <window_info id="Web" order="4" sideWeight="0.40509915" side_tool="true" weight="0.32686085" />
+      <window_info id="Favorites" order="5" sideWeight="0.2596401" weight="0.25728154" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2296173" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2296173" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3793677" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.3344426" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32956383" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3793677" />
+      <window_info anchor="bottom" id="Application Servers" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32962447" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32847896" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956383" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.3294509" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32956383" />
+      <window_info anchor="bottom" id="Changes" order="16" weight="0.32956383" />
+      <window_info anchor="right" id="CDI" order="0" weight="0.32922825" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Designer" order="3" />
+      <window_info anchor="right" id="JSF" order="4" weight="0.32922825" />
+      <window_info anchor="right" id="IDEtalk" order="5" weight="0.32840723" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3275862" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24939074" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32873377" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".htaccess" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.config" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="project commit" />
+    <MESSAGE value="dump commit" />
+    <MESSAGE value="change pass on mysql" />
+    <MESSAGE value="last modifications before start first betta version" />
+    <MESSAGE value="add icon and beta image" />
+    <MESSAGE value="date fix , and log ERROR enabled only" />
+    <MESSAGE value="config filemanager added" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="mail fix bugs" />
+    <MESSAGE value="google autentification" />
+    <MESSAGE value="TROLOLOLOLOL BAM PARAM PAM PAM" />
+    <MESSAGE value="games added&#10;" />
+    <MESSAGE value="add" />
+    <MESSAGE value="seo optimization" />
+    <MESSAGE value="stie speed load optimization&#10;" />
+    <MESSAGE value="no commit" />
+    <MESSAGE value="img bred" />
+    <MESSAGE value="fix bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bugs" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.1.6.RELEASE/spring-websocket-4.1.6.RELEASE-sources.jar!/org/springframework/web/socket/server/standard/SpringConfigurator.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="737" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.1.6.RELEASE/spring-websocket-4.1.6.RELEASE-sources.jar!/org/springframework/web/socket/handler/TextWebSocketHandler.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="741" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.6.RELEASE/spring-webmvc-4.1.6.RELEASE-sources.jar!/org/springframework/web/servlet/tags/MessageTag.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="1105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE-sources.jar!/org/springframework/context/support/ReloadableResourceBundleMessageSource.java</url>
+          <line>347</line>
+          <properties />
+          <option name="timeStamp" value="1116" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/impl/GameServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/repository/MessagePersistence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="53" column="83" selection-start-line="53" selection-start-column="78" selection-end-line="53" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/impl/MessageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/impl/NewsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/impl/StoreServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/impl/TeamServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/impl/UserHashServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/model/impl/AbsEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="83" column="27" lean-forward="true" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/CrudInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/CrudService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/EmailConfirmationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/GameService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/MessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/NewsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/service/RoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/util/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/utils/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/utils/PasswordUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/wrapper/UserTransfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/den/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/confirmation_en.vm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/confirmation_ru.vm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/resendpassword_en.vm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/resendpassword_ru.vm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/avatar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/arrow.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/25615.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/3333.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/messages/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-791" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/news/add_new.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/news/new.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/news/news.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/posts.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template1.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template2.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template3.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template4.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/posts/template5.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/profile/found.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/profile/main.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/profile/not_found.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/teams/createteam.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/teams/games_found.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16592">
+          <caret line="976" column="34" selection-start-line="976" selection-start-column="29" selection-end-line="976" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/filters.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/module.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/route.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/service.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>sg:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>respond</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sg</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>c5connector-java-0.81</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
